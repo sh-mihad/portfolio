@@ -15,7 +15,7 @@ const MySkills = () => {
               </div>
               <div>
                 <img src={reactPhoto} className="mb-0" alt="" />
-                <h1 className='mt-0'>React Js</h1>
+                <h1 className='mt-0'>React jsx</h1>
               </div>
               <div>
                 <img src={reactPhoto} className="mb-0" alt="" />
