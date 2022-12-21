@@ -1,0 +1,36 @@
+.main-box{
+    background-position: top;
+    transition:ease-in-out 3s;
+}
+
+.box-1 {
+ background: url("../../assest/ph-resale-mart.png");
+ background-size: cover;
+ background-position: top;
+ transition:ease-in-out 3s;
+}
+.box-2 {
+ background: url("../../assest/screencapture-doc-hours-web-app-2022-12-21-23_51_05.png");
+ background-size: cover;
+ background-position: top;
+ transition:ease-in-out 3s;
+}
+.box-3 {
+ background: url("../../assest/screencapture-course-arena-web-app-course-2022-12-21-23_51_39.png");
+ background-size: cover;
+ background-position: top right;
+ transition:ease-in-out 3s;
+}
+
+.box-1:hover {
+    background-position: bottom;
+   
+}
+.box-2:hover {
+    background-position: bottom;
+   
+}
+.box-3:hover {
+    background-position:left;
+   
+}
