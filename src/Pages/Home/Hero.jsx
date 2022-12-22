@@ -5,7 +5,7 @@ import sabbirImage from "../../assest/protfolio image.png"
 const Hero = () => {
     return (
         <div className="block md:flex items-center" >
-           <div  className='w-full ml-5 md:w-3/5'>
+           <div  className='w-full ml-0 md:ml-5 md:w-3/5'>
            <p className="text-xl">Hello,<span className="text-[#02bf96]">I'am</span> </p>
             <h1 className="text-5xl my-4 font-semibold text-[#02bf96]">Sabbir Hossen</h1>
             <h4 className="flex gap-2 text-2xl">I am a
