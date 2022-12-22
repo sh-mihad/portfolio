@@ -16,7 +16,7 @@ import gitPhoto from "../../src/assest/GitHub-Mark-removebg-preview.png"
 
 const MySkills = () => {
     return (
-        <div className='mt-20 w-3/4 mx-auto text-center'>
+        <div className='mt-20  w-11/12 lg:w-3/4 mx-auto text-center'>
             <h className="text-4xl font-bold">My Skils</h>
             <div className='grid grid-cols-2 md:grid-cols-4 mt-16 place-items-stretch gap-10'>
               <div className='bg-slate-600 p-3 rounded-2xl hover:bg-slate-700 ease-in duration-300'>

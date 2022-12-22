@@ -21,7 +21,7 @@ const Hero = () => {
                 Web Development is my passion I never tierd for this, I have 2 years of expiriance on this fild. I can make lots of porject using MERN Technologis. I am expert in HTML, CSS , Javascript , React , Tailwind , Node js ,and other tacnologis
             </p>
            <div className='flex gap-5'>
-           <button className="btn mt-7 bg-[#02bf96] border-0">Contact Me</button>
+           <button className="btn mt-7 bg-[#02bf96] border-0"><a href="https://form.jotform.com/223553356494462">Contact Me</a></button>
            <button className="btn mt-7 bg-[#02bf96] border-0"><a href="https://drive.google.com/file/d/1tEilDB4iGsE9qwKSRGQ8F3_794fz9EBZ/view?usp=share_link">Downlod Resume</a></button>
            </div>
            </div>
